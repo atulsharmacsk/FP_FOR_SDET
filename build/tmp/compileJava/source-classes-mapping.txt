@@ -1,0 +1,6 @@
+FI.java
+ Demo
+ DemoFunctionType
+ FI
+ TestLambdaExpression
+ testMethodReference
