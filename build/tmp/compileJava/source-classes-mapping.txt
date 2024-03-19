@@ -4,3 +4,5 @@ FI.java
  FI
  TestLambdaExpression
  testMethodReference
+Player.java
+ Player

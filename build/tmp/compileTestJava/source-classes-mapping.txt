@@ -1,6 +1,8 @@
-StreamsTest1.java
- StreamsTest1
 FI_RestAssured.java
  FI_RestAssured
+StreamsTest1.java
+ StreamsTest1
 FI_Selenium.java
  FI_Selenium
+Stream_Operations_1.java
+ Stream_Operations_1
